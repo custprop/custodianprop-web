@@ -18,6 +18,8 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+  trailingSlash: false, // or true, depending on your preference
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Custodian Prop', // Usually your GitHub org/user name.
