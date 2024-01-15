@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcustodianprop_web=self.webpackChunkcustodianprop_web||[]).push([[5223],{9925:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/custprop.github.io/blog/tags/hola","allTagsPath":"/custprop.github.io/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcustodianprop_web=self.webpackChunkcustodianprop_web||[]).push([[1297],{6605:o=>{o.exports=JSON.parse('{"permalink":"/custprop.github.io/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

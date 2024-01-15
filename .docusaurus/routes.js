@@ -3,140 +3,140 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/custprop.github.io/blog',
-    component: ComponentCreator('/custprop.github.io/blog', '6c3'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '415'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/archive',
-    component: ComponentCreator('/custprop.github.io/blog/archive', 'c91'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', '0e5'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/first-blog-post',
-    component: ComponentCreator('/custprop.github.io/blog/first-blog-post', '523'),
+    path: '/blog/first-blog-post',
+    component: ComponentCreator('/blog/first-blog-post', 'd66'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/long-blog-post',
-    component: ComponentCreator('/custprop.github.io/blog/long-blog-post', '5a7'),
+    path: '/blog/long-blog-post',
+    component: ComponentCreator('/blog/long-blog-post', 'f2e'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/mdx-blog-post',
-    component: ComponentCreator('/custprop.github.io/blog/mdx-blog-post', 'cb9'),
+    path: '/blog/mdx-blog-post',
+    component: ComponentCreator('/blog/mdx-blog-post', '8d5'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/tags',
-    component: ComponentCreator('/custprop.github.io/blog/tags', 'c90'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', '399'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/tags/docusaurus',
-    component: ComponentCreator('/custprop.github.io/blog/tags/docusaurus', 'b52'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus', '891'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/tags/facebook',
-    component: ComponentCreator('/custprop.github.io/blog/tags/facebook', 'e96'),
+    path: '/blog/tags/facebook',
+    component: ComponentCreator('/blog/tags/facebook', '97a'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/tags/hello',
-    component: ComponentCreator('/custprop.github.io/blog/tags/hello', 'b3c'),
+    path: '/blog/tags/hello',
+    component: ComponentCreator('/blog/tags/hello', 'a3b'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/tags/hola',
-    component: ComponentCreator('/custprop.github.io/blog/tags/hola', 'c86'),
+    path: '/blog/tags/hola',
+    component: ComponentCreator('/blog/tags/hola', '5cd'),
     exact: true
   },
   {
-    path: '/custprop.github.io/blog/welcome',
-    component: ComponentCreator('/custprop.github.io/blog/welcome', 'a7a'),
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome', '342'),
     exact: true
   },
   {
-    path: '/custprop.github.io/markdown-page',
-    component: ComponentCreator('/custprop.github.io/markdown-page', '78a'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '77a'),
     exact: true
   },
   {
-    path: '/custprop.github.io/docs',
-    component: ComponentCreator('/custprop.github.io/docs', 'b57'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '11f'),
     routes: [
       {
-        path: '/custprop.github.io/docs',
-        component: ComponentCreator('/custprop.github.io/docs', '7c6'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '40b'),
         routes: [
           {
-            path: '/custprop.github.io/docs',
-            component: ComponentCreator('/custprop.github.io/docs', '812'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '292'),
             routes: [
               {
-                path: '/custprop.github.io/docs/category/tutorial---basics',
-                component: ComponentCreator('/custprop.github.io/docs/category/tutorial---basics', '983'),
+                path: '/docs/category/tutorial---basics',
+                component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/category/tutorial---extras',
-                component: ComponentCreator('/custprop.github.io/docs/category/tutorial---extras', '512'),
+                path: '/docs/category/tutorial---extras',
+                component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/intro',
-                component: ComponentCreator('/custprop.github.io/docs/intro', 'd55'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', 'aed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/custprop.github.io/docs/tutorial-basics/congratulations', 'd85'),
+                path: '/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/custprop.github.io/docs/tutorial-basics/create-a-blog-post', '1ca'),
+                path: '/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/custprop.github.io/docs/tutorial-basics/create-a-document', 'e5c'),
+                path: '/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/custprop.github.io/docs/tutorial-basics/create-a-page', '819'),
+                path: '/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/custprop.github.io/docs/tutorial-basics/deploy-your-site', '6ed'),
+                path: '/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/custprop.github.io/docs/tutorial-basics/markdown-features', '714'),
+                path: '/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/custprop.github.io/docs/tutorial-extras/manage-docs-versions', 'ffd'),
+                path: '/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/custprop.github.io/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/custprop.github.io/docs/tutorial-extras/translate-your-site', 'a8f'),
+                path: '/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -147,8 +147,8 @@ export default [
     ]
   },
   {
-    path: '/custprop.github.io/',
-    component: ComponentCreator('/custprop.github.io/', 'd1f'),
+    path: '/',
+    component: ComponentCreator('/', '6a0'),
     exact: true
   },
   {
