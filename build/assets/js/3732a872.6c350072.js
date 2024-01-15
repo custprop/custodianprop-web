@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustodianprop_web=self.webpackChunkcustodianprop_web||[]).push([[5682],{1507:o=>{o.exports=JSON.parse('{"permalink":"/custprop.github.io/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

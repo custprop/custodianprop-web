@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustodianprop_web=self.webpackChunkcustodianprop_web||[]).push([[2540],{6661:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/custprop.github.io/blog/tags/facebook","allTagsPath":"/custprop.github.io/blog/tags","count":1,"unlisted":false}')}}]);

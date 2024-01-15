@@ -8,7 +8,7 @@ export default {
   "tagline": "Property Management tool for PMs, Landlord, Contractors and Tenants",
   "favicon": "img/favicon.ico",
   "url": "https://custprop.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/custprop.github.io/",
   "trailingSlash": false,
   "organizationName": "Custodian Prop",
   "projectName": "Custodian Prop - Web",
